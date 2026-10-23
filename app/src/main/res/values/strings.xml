@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose Showcase</string>
+    <!-- Лекція «Базові елементи»: рядок з аргументом для stringResource(R.string.greeting, name) -->
+    <string name="greeting">Привіт, %1$s! Цей рядок узято з res/values/strings.xml</string>
+</resources>

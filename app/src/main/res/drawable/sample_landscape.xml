@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Векторна ілюстрація 3:2 для демонстрації Image + ContentScale -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="200dp"
+    android:viewportWidth="300"
+    android:viewportHeight="200">
+    <path android:fillColor="#FF90CAF9" android:pathData="M0,0h300v200h-300z" />
+    <path android:fillColor="#FFFFD54F" android:pathData="M215,50a25,25 0,1 1,50 0a25,25 0,1 1,-50 0z" />
+    <path android:fillColor="#FF5C6BC0" android:pathData="M0,200L90,80L160,170L210,110L300,200z" />
+    <path android:fillColor="#FF3949AB" android:pathData="M0,200L60,140L120,200z" />
+    <path android:fillColor="#FF66BB6A" android:pathData="M0,182h300v18h-300z" />
+</vector>
